@@ -4,15 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=repo1,repo2&hide=c,html,css" height="150" alt="languages graph"  />
-
-
-
-
-
-</div>
-
+ <!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&include_all_commits=true&exclude_repo=repo1,repo2" height="150" alt="languages graph"  />
 
 
 <div align="left">
@@ -52,10 +45,10 @@
   <a href="https://www.twitch.com/nefoligeek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://www.discord.com/nefoligeek" target="_blank">
+  <a href="https://discord.com/invite/UQwGtD9Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:contact@abishekn.com.np" target="_blank">
+<a href="mailto:717abishekneupane@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
  <a href="https://www.twitter.com/virtualabishek/" target="_blank">
