@@ -6,9 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
  <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&include_all_commits=true&exclude_repo=repo1,repo2" height="150" alt="languages graph"  />
+## Technologies 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,6 +38,7 @@
 </div>
 
 ###
+## Contact Me
 
 <div align="left">
   <a href="https://www.youtube.com/@virtualabishek" target="_blank">
