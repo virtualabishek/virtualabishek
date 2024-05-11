@@ -1,10 +1,11 @@
 <h2 align="left">Hi 👋! My name is Virtual Abishek and I'm a Developer, from Nepal.</h2>
 
-###
+<!--###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <!-- Most Used Languages -->
+ <!-- Most Used Languages --> 
+ <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&include_all_commits=true&exclude_repo=repo1,repo2" height="150" alt="languages graph"  />
 
   ### Technologies 
@@ -37,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
+-->
 ###
 ## Contact Me
 
