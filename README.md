@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Abishek Neupane and I'm learning Developement, from Nepal.</h2>
-<p align="left"><strong>I won’t be active here for the next two months or more, as I’ll be preparing for my 4th semester board exams. Let’s see how it goes!</strong></p>
-
+<!-- <p align="left"><strong>I won’t be active here for the next two months or more, as I’ll be preparing for my 4th semester board exams. Let’s see how it goes!</strong></p>
+ -->
 ###
 
 <div align="center">
