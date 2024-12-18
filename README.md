@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Abishek Neupane and I'm learning Developement, from Nepal.</h2>
+<!-- <h2 align="left">Hi 👋! My name is Abishek Neupane and I'm learning Developement, from Nepal.</h2> -->
 <!-- <p align="left"><strong>I won’t be active here for the next two months or more, as I’ll be preparing for my 4th semester board exams. Let’s see how it goes!</strong></p>
  -->
 
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br />
+  <br /> -->
 <!--   <h3> Most Used Languages </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&include_all_commits=true&exclude_repo=repo1,repo2" height="150" alt="languages graph"  />
 </div> -->
-
+<!-- 
 ### Technologies
 
 <div align="center" class="tech-icons">
@@ -50,3 +50,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+-->
