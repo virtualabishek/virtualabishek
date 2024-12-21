@@ -1,4 +1,4 @@
-<!-- <h2 align="left">Hi 👋! My name is Abishek Neupane and I'm learning Developement, from Nepal.</h2> -->
+ <h2 align="left">Hi 👋! My name is Abishek Neupane and I'm learning Developement, from Nepal.</h2> 
 <!-- <p align="left"><strong>I won’t be active here for the next two months or more, as I’ll be preparing for my 4th semester board exams. Let’s see how it goes!</strong></p>
  -->
 
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
+-->
 ### Contact Me
 
 <div align="left" class="contact-icons">
@@ -50,4 +50,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
--->
+
