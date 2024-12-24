@@ -6,9 +6,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <br /> -->
-<!--   <h3> Most Used Languages </h3>
+<h3> Most Used Languages </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&include_all_commits=true&exclude_repo=repo1,repo2" height="150" alt="languages graph"  />
-</div> -->
+</div> 
 <!-- 
 ### Technologies
 
