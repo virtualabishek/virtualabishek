@@ -20,6 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   </div>
   -->
+  <div align="center">
   <h2>📫 Connect with Me</h2>
   <div>
     <a href="https://www.youtube.com/@virtualabishek" target="_blank">
