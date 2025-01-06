@@ -1,3 +1,4 @@
+<!--
 <h2 align="center">Hi 👋! I'm Abishek Neupane, a Development Enthusiast from Nepal</h2>
 
 <div align="center">
@@ -18,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   </div>
-  
+  -->
   <h2>📫 Connect with Me</h2>
   <div>
     <a href="https://www.youtube.com/@virtualabishek" target="_blank">
