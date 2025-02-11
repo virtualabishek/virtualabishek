@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! I'm Abishek Neupane, a Learnering Developing from Nepal</h2>
+<h2 align="center">Hi 👋! I'm Abishek Neupane. I'm Learnering Developing from Nepal</h2>
 <div align="center">
   <h2>🚀 Most Used Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&layout=compact&theme=radical" height="150" alt="languages graph" />
