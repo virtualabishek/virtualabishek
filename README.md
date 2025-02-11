@@ -12,8 +12,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" />
       </td>
       <td align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</td>
+
     </tr>
   </table>
 </div>
