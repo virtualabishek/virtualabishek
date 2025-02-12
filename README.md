@@ -15,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </td>
 
-    </tr>
   </table>
 </div>
 
