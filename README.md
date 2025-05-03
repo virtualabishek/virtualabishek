@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Abishek Neupane</h1>
+<!-- <h1 align="center">Hi 👋! I'm Abishek Neupane</h1>
 <p align="center">
   <strong>Learning | Developing | Tech Enthuastic | Exploring | Hustling</strong>
 </p>
@@ -41,7 +41,7 @@
 </div>
 
 ---
-
+-->
 ## 📫 Connect with Me
 
 <div align="center">
@@ -60,13 +60,16 @@
   <a href="mailto:717abishekneupane@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
+
+  ### You can also find me on:
+
+ **Website:** [abishekn.com.np](https://abishekn.com.np)
+ **Blog Website:** [blog.abishekn.com.np](https://blog.abishekn.com.np)
 </div>
 
 ---
 
-### You can also find me on:
 
- **Website:** [abishekn.com.np](https://abishekn.com.np)
 
-</div>
+<!-- </div> -->
 
