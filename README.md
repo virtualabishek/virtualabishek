@@ -1,76 +1,104 @@
-<!-- <h1 align="center">Hi 👋! I'm Abishek Neupane</h1>
-<p align="center">
-  <strong>Learning | Developing | Tech Enthuastic | Exploring | Hustling</strong>
-</p>
+<div align="center">
 
+# Hi, I'm Abishek Neupane 👋
+
+**Learning · Developing · Exploring · Hustling**
+
+[![Website](https://img.shields.io/badge/🌐_Website-abishekn.com.np-0A66C2?style=flat-square)](https://abishekn.com.np)
+[![Blog](https://img.shields.io/badge/📝_Blog-blog.abishekn.com.np-FF5722?style=flat-square)](https://blog.abishekn.com.np)
+
+</div>
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" />
-      </td>
-      <td align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&locale=en&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=virtualabishek&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Daily Inspiration
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 📈 Language Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </td>
+<td width="50%" align="center">
 
-  </table>
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
-<div align='center'>
-
-
-## 💻 Technologies I Work With
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/virtualabishek/virtualabishek/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
--->
-## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/virtualabishek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitter.com/virtualabishek/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@virtualabishek" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/invite/UQwGtD9Q" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:717abishekneupane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
 
-  ### You can also find me on:
+## 🤝 Connect With Me
 
- **Website:** [abishekn.com.np](https://abishekn.com.np)
- <br>
- **Blog Website:** [blog.abishekn.com.np](https://blog.abishekn.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virtualabishek/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/virtualabishek/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@virtualabishek)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/UQwGtD9Q)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:717abishekneupane@gmail.com)
+
 </div>
 
 ---
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=virtualabishek&color=blueviolet&style=flat-square)
 
-<!-- </div> -->
+**Thanks for visiting! Have a great day!** 😊
 
+</div>
