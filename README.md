@@ -24,24 +24,17 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+<div align="center">
+
 ## 💭 Daily Inspiration
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-## 📈 Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualabishek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </td>
 <td width="50%" align="center">
 
