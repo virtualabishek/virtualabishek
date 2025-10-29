@@ -4,34 +4,39 @@
 
 **Learning • Developing • Exploring • Hustling**
 
-[![Website](https://img.shields.io/badge/🌐_Website-abishekn.com.np-0A66C2?style=flat-square)](https://abishekn.com.np)
-[![Blog](https://img.shields.io/badge/📝_Blog-blog.abishekn.com.np-FF5722?style=flat-square)](https://blog.abishekn.com.np)
+[![Website](https://img.shields.io/badge/-abishekn.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abishekn.com.np)
+[![Blog](https://img.shields.io/badge/-blog.abishekn.com.np-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.abishekn.com.np)
+[![X (Twitter)](https://img.shields.io/badge/-@virtualabishek-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/virtualabishek)
+
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virtualabishek&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+<!-- GitHub Stats -->
+<picture>
+  <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true" width="450" alt="GitHub Stats"/>
+</picture>
 
-</div>
+<br/>
 
-
----
-
-## 💭 Daily Inspiration
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- GitHub Streak -->
+<picture>
+  <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=virtualabishek&theme=radical&hide_border=true&card_width=100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virtualabishek&theme=radical&hide_border=true" width="450" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
 ---
 
 ## 💻 Tech Stack
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -52,27 +57,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-<div align="center">
-
-![Snake animation](https://github.com/virtualabishek/virtualabishek/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virtualabishek/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/virtualabishek)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@virtualabishek)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/UQwGtD9Q)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:717abishekneupane@gmail.com)
-
-</div>
 
 ---
 
@@ -80,6 +64,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualabishek&color=blueviolet&style=flat-square)
 
-**Thanks for visiting! Have an awesome day! 🚀**
+**Thanks for visiting! Have an awesome day 🚀**
 
 </div>
