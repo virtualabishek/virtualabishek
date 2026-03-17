@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=virtualabishek&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars" height="180" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=virtualabishek&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
